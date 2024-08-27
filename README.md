@@ -1,8 +1,8 @@
 # AI-Powered Virtual Fitness Assistant Project
 
 ## Team Members:
-- Duranni Wright 
-- Hassan Noorani 
+- Hassan Noorani
+- Duranni Wright  
 - Hadi
 - Jordyn
 
