@@ -3,8 +3,8 @@
 ## Team Members:
 - Hassan Noorani
 - Duranni Wright  
-- Hadi
-- Jordyn
+- Hadi Mahmood
+- Jordyn Bellamy
 
 ## Table of Contents
 1. [Abstract](#abstract)
